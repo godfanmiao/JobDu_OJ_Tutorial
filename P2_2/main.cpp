@@ -1,7 +1,9 @@
 #include <stdio.h>
 #include <algorithm>
 using namespace std;
-
+/**
+Sorting in ascent order using algorithm lib.
+**/
 int buf[10000];
 
 int main()
