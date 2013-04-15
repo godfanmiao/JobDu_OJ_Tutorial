@@ -1,5 +1,7 @@
 #include <stdio.h>
-
+/**
+基本求和
+**/
 int main()
 {
 	freopen("input.txt", "r", stdin);
