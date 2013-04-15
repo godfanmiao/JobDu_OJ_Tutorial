@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
-基本求和
+fundamental sum demo
 **/
 int main()
 {
